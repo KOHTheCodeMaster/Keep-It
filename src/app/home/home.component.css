@@ -1,0 +1,25 @@
+#search-bar {
+  outline: none;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.search-bar-wrapper {
+  background-color: darkslategray;
+  padding: 5px 1em;
+  border-radius: 10px;
+}
+
+.search-bar-wrapper img {
+  width: 2em;
+  height: 1.5em;
+}
+
+.search-bar-wrapper span {
+  font-size: 1.3em;
+}
+
+.logo-img {
+  width: 3em;
+  height: 3em;
+}
